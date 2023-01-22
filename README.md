@@ -1,24 +1,6 @@
 # ClonandoSiteHBOMaxAnimacoesHTML_CSS
 Clonando o Site da HBO Max com Animações em HTML e CSS
 
-[**](https://web.dio.me/track/formacao-css-web-developer)
-
-##### Clonando o Site da HBO Max com Animações em HTML e CSS
-
-**
-
-[**](https://web.dio.me/lab/clonando-o-site-da-hbo-max-com-animacoes-em-html-e-css/learning/9d5f9956-a23e-4851-b96b-1d724f23b0da)[**](https://web.dio.me/lab/clonando-o-site-da-hbo-max-com-animacoes-em-html-e-css/learning/6497d452-c9d3-46e6-9585-321b3dc497ce)
-
-- CONTEÚDOS
-- INFORMAÇÕES
-
-[Clonando o Site da HBO Max com Animações em HTML e CSS](https://web.dio.me/lab/clonando-o-site-da-hbo-max-com-animacoes-em-html-e-css/learning/9d5f9956-a23e-4851-b96b-1d724f23b0da)[Entendendo o Desafio](https://web.dio.me/lab/clonando-o-site-da-hbo-max-com-animacoes-em-html-e-css/learning/6497d452-c9d3-46e6-9585-321b3dc497ce)
-
-
-
-- CONTEÚDOS
-- INFORMAÇÕES
-
 ###### DESCRIÇÃO
 
 Chegou o seu momento! Você irá colocar em prática tudo o que você aprendeu durante a Formação. Você irá fazer um clone do site HBO Max com animações em HTML e CSS. Lembre-se de seguir as instruções da Expert e de no final entregar o seu projeto em um repositório público no GitHub.
